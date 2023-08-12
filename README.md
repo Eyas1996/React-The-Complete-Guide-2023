@@ -1,1 +1,1 @@
-# React-The-Complete-Guide-2023
+"React - The Complete Guide" course (https://acad.link/reactjs)
