@@ -1,7 +1,7 @@
 import React from "react";
 
-import "./Form.css";
-const Form = () => {
+import "./UserInput.css";
+const UserInput = () => {
   return (
     <form className="form">
       <div className="input-group">
@@ -38,4 +38,4 @@ const Form = () => {
   );
 };
 
-export default Form;
+export default UserInput;
