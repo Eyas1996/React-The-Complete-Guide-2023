@@ -37,7 +37,7 @@ const ResultsTable = () => {
           <th>Interest (Year)</th>
           <th>Total Interest</th>
           <th>Invested Capital</th>
-        </tr>
+        </tr> 
       </thead>
       <tbody>
         <tr>
