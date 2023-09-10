@@ -1,0 +1,12 @@
+.userList ul {
+  list-style: none;
+  padding: 1.2rem 1.2rem 0.2rem;
+}
+
+.userList ul li {
+  border: 2px solid #15141426;
+  padding: 0.4rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+  font-weight: bold;
+}
